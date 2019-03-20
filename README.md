@@ -34,34 +34,20 @@ If you choose to take a picture of your sketches, please make sure the texts are
 - Remake the manga profile page, make the "follow" button more visible to user
 - Keep using tick box but place the "delete" button on top of manga list, and add "mark as read" and "favorites" button
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+I prefer using Solution v1. Because it doesn't require to change a lot of things on the curret design, another solution might make taadd less recognized because of a lot of changes in the design.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+I've learned to see from user's perspective, there's a lot of different things from developer's perspective and user's perspective, oftentimes what the developers thinks its good is bad in user's perspective. When i'm designing this i always thinking about what user might think when seeing the website and then i think about how to make user's confortable.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+1. Screen size: 15.6 inch
+2. Screen resolution: 1366x768 or higher
+3. PC with connection to internet
+4. Physical input: Mouse or Touch screen and Keyboard
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+- Familiar with computer and web browser
+- User age range from 10 to 60 years old.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
