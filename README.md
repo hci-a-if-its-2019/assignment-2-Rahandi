@@ -12,13 +12,17 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Version 1](img/randi001.jpg)
 
 ### 2. Version Differences
 ## Problem
 - Hard to find popular manga
 - The "following" button is confusing, the button doesn't change label when clicked
 - Hard to find a way to unfollow a manga
+### Solution v1:
+- Move top viewed manga to the top so the user can see it clearly
+- Change label "following" to "follow" and change the label to "unfollow" if the user already followed the manga
+- Place delete button beside the manga to unfollow the manga
 
 ### 3. Selected Sketch
 ```
