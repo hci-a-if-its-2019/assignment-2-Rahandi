@@ -13,6 +13,7 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ```
 
 ![Version 1](img/randi001.jpg)
+![Version 2](img/randi002.jpg)
 
 ### 2. Version Differences
 ## Problem
@@ -23,6 +24,10 @@ If you choose to take a picture of your sketches, please make sure the texts are
 - Move top viewed manga to the top so the user can see it clearly
 - Change label "following" to "follow" and change the label to "unfollow" if the user already followed the manga
 - Place delete button beside the manga to unfollow the manga
+### Solution v2:
+- Move popular manga list to categorized manga display
+- Place the follow button on the right side, if the manga is already followed then display stat so the user can remember what chapter he/she is last time
+- disable the ability to unfollow manga from profile altogether, the ability unfollowing manga will be only available at manga profile
 
 ### 3. Selected Sketch
 ```
