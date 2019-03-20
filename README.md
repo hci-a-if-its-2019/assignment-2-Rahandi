@@ -14,6 +14,7 @@ If you choose to take a picture of your sketches, please make sure the texts are
 
 ![Version 1](img/randi001.jpg)
 ![Version 2](img/randi002.jpg)
+![Version 3](img/randi003.jpg)
 
 ### 2. Version Differences
 ## Problem
@@ -28,7 +29,10 @@ If you choose to take a picture of your sketches, please make sure the texts are
 - Move popular manga list to categorized manga display
 - Place the follow button on the right side, if the manga is already followed then display stat so the user can remember what chapter he/she is last time
 - disable the ability to unfollow manga from profile altogether, the ability unfollowing manga will be only available at manga profile
-
+### Solution v3:
+- Show all manga, use filter to get the top viewed manga
+- Remake the manga profile page, make the "follow" button more visible to user
+- Keep using tick box but place the "delete" button on top of manga list, and add "mark as read" and "favorites" button
 ### 3. Selected Sketch
 ```
 Please write a paragraph telling us about which design you picked for Parts B and C 
