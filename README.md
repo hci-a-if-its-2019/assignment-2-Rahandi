@@ -15,9 +15,10 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+## Problem
+- Hard to find popular manga
+- The "following" button is confusing, the button doesn't change label when clicked
+- Hard to find a way to unfollow a manga
 
 ### 3. Selected Sketch
 ```
