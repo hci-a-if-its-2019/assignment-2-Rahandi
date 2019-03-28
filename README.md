@@ -50,4 +50,7 @@ I've learned to see from user's perspective, there's a lot of different things f
 - User age range from 10 to 60 years old.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+![Low Fidelity](img/low.PNG)
+Low Fidelity: https://projects.invisionapp.com/freehand/document/43rd4O8jJ
+
+High Fidelity: https://invis.io/ZJR8HNY2R4N#/354715320_Home
