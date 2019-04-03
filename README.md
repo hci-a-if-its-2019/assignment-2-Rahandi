@@ -53,4 +53,4 @@ I've learned to see from user's perspective, there's a lot of different things f
 ![Low Fidelity](img/low.PNG)
 Low Fidelity: https://projects.invisionapp.com/freehand/document/43rd4O8jJ
 
-High Fidelity: https://invis.io/ZJR8HNY2R4N#/354715320_Home
+High Fidelity: https://invis.io/95RCMO7J7BW
